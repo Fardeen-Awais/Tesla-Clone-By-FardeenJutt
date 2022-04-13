@@ -1,0 +1,35 @@
+.LOG
+8:18 AM 3/8/2022
+>Creating a react app with package manage "yarn"
+>>Installing the style-component for using css directly in java Script
+>>>I am making Home component
+i am Working on section.js for making section component that mostly repeat in tesla clone
+3:26 AM 4/4/2022
+> I Had make up buttons and Down Arrow
+>> I had learn I can download any picture of the website by this;https://extract.pics/
+>>> I making the animation of downArrow
+>>> Adding and using props 
+> I learn how to add image with props
+>> i learn how to add props in component
+>>> quiz: Change the color of the tile and description with props for second component
+>>> Header component bnanay jarahay hai 
+>>>> Logo bn gia
+>>>> I am working on right menu and left menu 
+3:39 AM 4/9/2022
+Mai material ui icons ko use aur download kru ga menu icon k liay
+7:50 AM 4/9/2022
+Mai nai react reveal ko use kr k effects add kiay hai button par react reveal ka alternative aik bnday nai cleaver
+programmer ki video mai suggest kia hai
+2:31 AM 4/10/2022
+Burger nav bar bnanay jarha hu menu button ka 
+
+8:14 AM 4/10/2022
+Burger nav bar mai x icon dala jis trah menu icon dala
+12:42 AM 4/12/2022
+Mai nai aik bug remove kia hua yay tha k mai nai my-app ko hi vs code mai khol lia jis ki wja say app ko package.json 
+ki script hi nhi mil rhi thi.Is liay mai development server ko start nhi kr parha tha. Mai nai script kay andr bhi changings
+krdi thi jis wja say jab mai sahi directory kholi tab bhi problem arhi thi. Is problem ko makamal thik krnay k liay sahi directory
+kholay aur dusra "start": "react-scripts start",
+Mai koi changes na ho. 
+12:55 AM 4/12/2022
+I am making Close icon function in java Script
