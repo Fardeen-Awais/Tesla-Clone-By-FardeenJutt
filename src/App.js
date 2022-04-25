@@ -2,6 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import Header from './components/header';
 import Home from './components/Home';
+import About from './components/about';
+
 
 function App() {
   return (
@@ -10,6 +12,7 @@ function App() {
       <Header/>
       {/* Home Component */}
       <Home/>
+      <About/>
     </div>
   );
 
